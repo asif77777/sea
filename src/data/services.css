@@ -1,0 +1,9 @@
+slick-track {
+    display: flex !important;
+  }
+  
+  .slick-slide {
+    padding: 5px ;
+    height: 500px ;
+    width: 500px ;
+  }
